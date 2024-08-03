@@ -1,8 +1,6 @@
-# React + Vite
+# Waste Classification AI model
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+My first AI project creating a model that classify wastes between Organic or Recycle.
+This model is trained with thousands of waste images.
+By utilizing Tensorflow, I created Covolutional Neural Network (CNN) which is a type of Deep Learning architecture.
+This model has accuracy above 95% and its loss is only below 5%.
